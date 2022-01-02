@@ -1,6 +1,8 @@
 the new
+docker is trending
 heyyyyy
 hiiiii
+kubernates is awesome
 git is comprehensive tool (developer-1)
+devops changing
 svn is comprehensive tool (developer-2)
-
