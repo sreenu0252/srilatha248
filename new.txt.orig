@@ -1,0 +1,19 @@
+the new
+<<<<<<< HEAD
+docker is trending
+heyyyyy
+hiiiii
+kubernates is awesome
+git is comprehensive tool (developer-1)
+devops changing
+svn is comprehensive tool (developer-2)
+=======
+apples are good
+heyyyyy
+hiiiii
+apple mobiles
+git is comprehensive tool (developer-1)
+red apple
+svn is comprehensive tool (developer-2)
+
+>>>>>>> d47084ef2b2c13a23f9b14acdda202370e27b684
