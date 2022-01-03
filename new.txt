@@ -1,3 +1,4 @@
+python is scripting lang
 the new
 apples are good
 docker is trending
